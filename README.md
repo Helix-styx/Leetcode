@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Helix-styx/Leetcode/tree/master/0009-palindrome-number) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Helix-styx/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Helix-styx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/Helix-styx/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [2235-add-two-integers](https://github.com/Helix-styx/Leetcode/tree/master/2235-add-two-integers) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Helix-styx/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 ## Bit Manipulation
