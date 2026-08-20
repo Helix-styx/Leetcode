@@ -1,0 +1,7 @@
+class Solution {
+    public double angleClock(int hour, int minutes) {
+        double ans = Math.abs(30*hour-5.5*minutes);
+        if(ans>180) return 180-(ans-180);
+        return ans;
+    }
+}
