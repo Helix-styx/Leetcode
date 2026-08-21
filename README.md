@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Helix-styx/Leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Helix-styx/Leetcode/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/Helix-styx/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Helix-styx/Leetcode/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Helix-styx/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Helix-styx/Leetcode/tree/master/0258-add-digits) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Helix-styx/Leetcode/tree/master/0012-integer-to-roman) |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Greedy
@@ -63,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Helix-styx/Leetcode/tree/master/0048-rotate-image) |
+## String
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/Helix-styx/Leetcode/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
