@@ -16,11 +16,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1837-sum-of-digits-in-base-k](https://github.com/Helix-styx/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
 | [2235-add-two-integers](https://github.com/Helix-styx/Leetcode/tree/master/2235-add-two-integers) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Helix-styx/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Helix-styx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Array
 |  |
 | ------- |
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2057-smallest-index-with-equal-value](https://github.com/Helix-styx/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Helix-styx/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [4024-nearest-available-drone](https://github.com/Helix-styx/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
@@ -67,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Helix-styx/Leetcode/tree/master/0258-add-digits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Matrix
 |  |
 | ------- |
@@ -88,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
+## Binary Search
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
