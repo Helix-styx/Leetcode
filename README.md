@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Helix-styx/Leetcode/tree/master/0189-rotate-array) |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2057-smallest-index-with-equal-value](https://github.com/Helix-styx/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Helix-styx/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [4024-nearest-available-drone](https://github.com/Helix-styx/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
@@ -65,8 +66,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Helix-styx/Leetcode/tree/master/0048-rotate-image) |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Helix-styx/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Helix-styx/Leetcode/tree/master/0012-integer-to-roman) |
+## Prefix Sum
+|  |
+| ------- |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Helix-styx/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 <!---LeetCode Topics End-->
