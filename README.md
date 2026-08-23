@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Helix-styx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Helix-styx/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1837-sum-of-digits-in-base-k](https://github.com/Helix-styx/Leetcode/tree/master/1837-sum-of-digits-in-base-k) |
+| [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
 | [2235-add-two-integers](https://github.com/Helix-styx/Leetcode/tree/master/2235-add-two-integers) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/Helix-styx/Leetcode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 ## Two Pointers
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Helix-styx/Leetcode/tree/master/0012-integer-to-roman) |
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Helix-styx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
+| [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -124,4 +127,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Helix-styx/Leetcode/tree/master/0141-linked-list-cycle) |
+## Game Theory
+|  |
+| ------- |
+| [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
 <!---LeetCode Topics End-->
