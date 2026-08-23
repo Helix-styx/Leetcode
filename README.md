@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Helix-styx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
+| [1957-delete-characters-to-make-fancy-string](https://github.com/Helix-styx/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
 ## Prefix Sum
 |  |
 | ------- |
