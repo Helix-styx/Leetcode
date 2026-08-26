@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Helix-styx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0189-rotate-array](https://github.com/Helix-styx/Leetcode/tree/master/0189-rotate-array) |
 | [0496-next-greater-element-i](https://github.com/Helix-styx/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Helix-styx/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Helix-styx/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2057-smallest-index-with-equal-value](https://github.com/Helix-styx/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Helix-styx/Leetcode/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Helix-styx/Leetcode/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/Helix-styx/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Helix-styx/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Helix-styx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
@@ -157,4 +159,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Helix-styx/Leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Helix-styx/Leetcode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
