@@ -52,12 +52,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Helix-styx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Helix-styx/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Helix-styx/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Greedy
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Helix-styx/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Two Pointers
 |  |
 | ------- |
@@ -69,9 +71,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Helix-styx/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Enumeration
 |  |
 | ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Helix-styx/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [4024-nearest-available-drone](https://github.com/Helix-styx/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Simulation
 |  |
@@ -101,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Helix-styx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
 | [1957-delete-characters-to-make-fancy-string](https://github.com/Helix-styx/Leetcode/tree/master/1957-delete-characters-to-make-fancy-string) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Helix-styx/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Prefix Sum
 |  |
 | ------- |
