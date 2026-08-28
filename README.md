@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Helix-styx/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Helix-styx/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Helix-styx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Helix-styx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Helix-styx/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Helix-styx/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Helix-styx/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Helix-styx/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Helix-styx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Helix-styx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Helix-styx/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Combinatorics
@@ -179,4 +181,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Helix-styx/Leetcode/tree/master/0069-sqrtx) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Helix-styx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
