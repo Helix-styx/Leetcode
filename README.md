@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Helix-styx/Leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Helix-styx/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Helix-styx/Leetcode/tree/master/0258-add-digits) |
+| [0400-nth-digit](https://github.com/Helix-styx/Leetcode/tree/master/0400-nth-digit) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Helix-styx/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Helix-styx/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1344-angle-between-hands-of-a-clock](https://github.com/Helix-styx/Leetcode/tree/master/1344-angle-between-hands-of-a-clock) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Helix-styx/Leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/Helix-styx/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0400-nth-digit](https://github.com/Helix-styx/Leetcode/tree/master/0400-nth-digit) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Helix-styx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Helix-styx/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Helix-styx/Leetcode/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
