@@ -195,11 +195,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Helix-styx/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Helix-styx/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Helix-styx/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Helix-styx/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Helix-styx/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Helix-styx/Leetcode/tree/master/0100-same-tree) |
+| [0938-range-sum-of-bst](https://github.com/Helix-styx/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -212,8 +214,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Helix-styx/Leetcode/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Helix-styx/Leetcode/tree/master/0102-binary-tree-level-order-traversal) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Helix-styx/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Helix-styx/Leetcode/tree/master/0938-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0700-search-in-a-binary-search-tree](https://github.com/Helix-styx/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
+| [0938-range-sum-of-bst](https://github.com/Helix-styx/Leetcode/tree/master/0938-range-sum-of-bst) |
 <!---LeetCode Topics End-->
