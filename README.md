@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Helix-styx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/Helix-styx/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0189-rotate-array](https://github.com/Helix-styx/Leetcode/tree/master/0189-rotate-array) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Helix-styx/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/Helix-styx/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Helix-styx/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Helix-styx/Leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Helix-styx/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Helix-styx/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Binary Search
 |  |
 | ------- |
