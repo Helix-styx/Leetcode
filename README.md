@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Helix-styx/Leetcode/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/Helix-styx/Leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Helix-styx/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Helix-styx/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Helix-styx/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/Helix-styx/Leetcode/tree/master/0258-add-digits) |
 | [0400-nth-digit](https://github.com/Helix-styx/Leetcode/tree/master/0400-nth-digit) |
@@ -239,4 +240,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Helix-styx/Leetcode/tree/master/0543-diameter-of-binary-tree) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Helix-styx/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Helix-styx/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
