@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Helix-styx/Leetcode/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2057-smallest-index-with-equal-value](https://github.com/Helix-styx/Leetcode/tree/master/2057-smallest-index-with-equal-value) |
+| [2241-design-an-atm-machine](https://github.com/Helix-styx/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Helix-styx/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Helix-styx/Leetcode/tree/master/0860-lemonade-change) |
 | [1386-cinema-seat-allocation](https://github.com/Helix-styx/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
+| [2241-design-an-atm-machine](https://github.com/Helix-styx/Leetcode/tree/master/2241-design-an-atm-machine) |
 | [2591-distribute-money-to-maximum-children](https://github.com/Helix-styx/Leetcode/tree/master/2591-distribute-money-to-maximum-children) |
 | [2870-minimum-number-of-operations-to-make-array-empty](https://github.com/Helix-styx/Leetcode/tree/master/2870-minimum-number-of-operations-to-make-array-empty) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Helix-styx/Leetcode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Helix-styx/Leetcode/tree/master/0155-min-stack) |
+| [2241-design-an-atm-machine](https://github.com/Helix-styx/Leetcode/tree/master/2241-design-an-atm-machine) |
 ## Monotonic Stack
 |  |
 | ------- |
