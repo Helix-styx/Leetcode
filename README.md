@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Helix-styx/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Helix-styx/Leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Helix-styx/Leetcode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Helix-styx/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [4024-nearest-available-drone](https://github.com/Helix-styx/Leetcode/tree/master/4024-nearest-available-drone) |
 ## Hash Table
 |  |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2428-maximum-sum-of-an-hourglass](https://github.com/Helix-styx/Leetcode/tree/master/2428-maximum-sum-of-an-hourglass) |
+| [3904-smallest-stable-index-ii](https://github.com/Helix-styx/Leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Sorting
 |  |
 | ------- |
