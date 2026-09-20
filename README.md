@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0004-median-of-two-sorted-arrays](https://github.com/Helix-styx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Helix-styx/Leetcode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Helix-styx/Leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Helix-styx/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Helix-styx/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/Helix-styx/Leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Helix-styx/Leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Helix-styx/Leetcode/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/Helix-styx/Leetcode/tree/master/0134-gas-station) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Helix-styx/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/Helix-styx/Leetcode/tree/master/0605-can-place-flowers) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Helix-styx/Leetcode/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Helix-styx/Leetcode/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Helix-styx/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Helix-styx/Leetcode/tree/master/0115-distinct-subsequences) |
