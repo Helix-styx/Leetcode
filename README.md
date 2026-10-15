@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0115-distinct-subsequences](https://github.com/Helix-styx/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Helix-styx/Leetcode/tree/master/0392-is-subsequence) |
+| [0761-special-binary-string](https://github.com/Helix-styx/Leetcode/tree/master/0761-special-binary-string) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Helix-styx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Helix-styx/Leetcode/tree/master/1832-check-if-the-sentence-is-pangram) |
 | [1927-sum-game](https://github.com/Helix-styx/Leetcode/tree/master/1927-sum-game) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Helix-styx/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0761-special-binary-string](https://github.com/Helix-styx/Leetcode/tree/master/0761-special-binary-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -302,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Helix-styx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0761-special-binary-string](https://github.com/Helix-styx/Leetcode/tree/master/0761-special-binary-string) |
 ## Union-Find
 |  |
 | ------- |
