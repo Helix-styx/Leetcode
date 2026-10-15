@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Helix-styx/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Helix-styx/Leetcode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Helix-styx/Leetcode/tree/master/0189-rotate-array) |
+| [0224-basic-calculator](https://github.com/Helix-styx/Leetcode/tree/master/0224-basic-calculator) |
 | [0258-add-digits](https://github.com/Helix-styx/Leetcode/tree/master/0258-add-digits) |
 | [0400-nth-digit](https://github.com/Helix-styx/Leetcode/tree/master/0400-nth-digit) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Helix-styx/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Helix-styx/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Helix-styx/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Helix-styx/Leetcode/tree/master/0115-distinct-subsequences) |
+| [0224-basic-calculator](https://github.com/Helix-styx/Leetcode/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
 | [0392-is-subsequence](https://github.com/Helix-styx/Leetcode/tree/master/0392-is-subsequence) |
 | [0761-special-binary-string](https://github.com/Helix-styx/Leetcode/tree/master/0761-special-binary-string) |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Helix-styx/Leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/Helix-styx/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Helix-styx/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/Helix-styx/Leetcode/tree/master/0224-basic-calculator) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Helix-styx/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0143-reorder-list](https://github.com/Helix-styx/Leetcode/tree/master/0143-reorder-list) |
 | [0155-min-stack](https://github.com/Helix-styx/Leetcode/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/Helix-styx/Leetcode/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/Helix-styx/Leetcode/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Helix-styx/Leetcode/tree/master/0503-next-greater-element-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Helix-styx/Leetcode/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
