@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Helix-styx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0048-rotate-image](https://github.com/Helix-styx/Leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Helix-styx/Leetcode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Helix-styx/Leetcode/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Helix-styx/Leetcode/tree/master/0055-jump-game) |
 | [0074-search-a-2d-matrix](https://github.com/Helix-styx/Leetcode/tree/master/0074-search-a-2d-matrix) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Helix-styx/Leetcode/tree/master/0012-integer-to-roman) |
+| [0049-group-anagrams](https://github.com/Helix-styx/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Helix-styx/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Helix-styx/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Helix-styx/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0012-integer-to-roman](https://github.com/Helix-styx/Leetcode/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Helix-styx/Leetcode/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/Helix-styx/Leetcode/tree/master/0049-group-anagrams) |
 | [0091-decode-ways](https://github.com/Helix-styx/Leetcode/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Helix-styx/Leetcode/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
@@ -156,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Helix-styx/Leetcode/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/Helix-styx/Leetcode/tree/master/0242-valid-anagram) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Helix-styx/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0761-special-binary-string](https://github.com/Helix-styx/Leetcode/tree/master/0761-special-binary-string) |
