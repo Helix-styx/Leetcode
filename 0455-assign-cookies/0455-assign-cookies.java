@@ -3,16 +3,15 @@ class Solution {
         Arrays.sort(g);
         Arrays.sort(s);
         int count = 0;
-        int taken = -1;
-        for(int i  = 0; i<g.length; i++){
-           int j = taken==-1?0:taken+1;
-            while(j<s.length && taken<s.length-1){
-                if(s[j]>=g[i]){
-                    taken = j;
-                    count++;
-                    break;
-                }
+        int i = 0;
+        int j = 0;
+        while(i<s.length && j<g.length){
+            if(s[i]>=g[j]){
+                count++;
+                i++;
                 j++;
+            }else{
+                i++;
             }
         }
         return count;
