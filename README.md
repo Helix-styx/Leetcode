@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Helix-styx/Leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/Helix-styx/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Helix-styx/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Helix-styx/Leetcode/tree/master/0018-4sum) |
 | [0048-rotate-image](https://github.com/Helix-styx/Leetcode/tree/master/0048-rotate-image) |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Helix-styx/Leetcode/tree/master/0011-container-with-most-water) |
 | [0055-jump-game](https://github.com/Helix-styx/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Helix-styx/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/Helix-styx/Leetcode/tree/master/0134-gas-station) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Helix-styx/Leetcode/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Helix-styx/Leetcode/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/Helix-styx/Leetcode/tree/master/0018-4sum) |
 | [0141-linked-list-cycle](https://github.com/Helix-styx/Leetcode/tree/master/0141-linked-list-cycle) |
